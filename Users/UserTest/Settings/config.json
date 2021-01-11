@@ -1,0 +1,10 @@
+{
+  "userName": "testymtest",
+  "password": "testymtestpass",
+  "cookie": "_ym_d=1578316233;_ym_isad=2;_ym_uid=1554030423677064884;_ym_visorc_1028356=b;_ym_visorc_784657=b;active-browser-timestamp=1582638454398;amcuid=1090385371554204561;cycada=87DADRZigboEunHY8sdgKOXBSm8sPyjSDWYxnObc6Ss=;device_id='ac1edf3c3b569a8ffe72ea48aac3a42b859792c50';i=tIFYtRS8cK+X3+ERzNQncoEwEXRzk7c7eKN3ml3TOMEp+V59wkX4I4RieJmvmF9vpY6uLe2yChf3NkfELC+GUX+Vo1w=;L=AyJ2UlNYdwdBYkNCcGFJcGFEYn9WYH9TQgccPQs/NzdHMg==.1582638440.14152.371068.b7ab17dce8c0386277e90c5ec2ced28c;mda=0;Session_id=3:1582638440.5.0.1582638440134:CbTeWQ:1e.1|1033887267.0.2|213081.529823.0zN0-B8ahFnRErRQ9rOmyxfaTV8;sessionid2=3:1582638440.5.0.1582638440134:CbTeWQ:1e.1|1033887267.0.2|213081.847550.jOD-olAlFucRE5weLzVMO1xdssw;yandex_login=testymtest;yandexuid=5784895111554030418;ymex=1897998285.yrts.1582638285;yp=1897998440.udn.cDp0ZXN0eW10ZXN0#1897998440.multib.1;ys=udn.cDp0ZXN0eW10ZXN0;yuidss=5784895111554030418;lastVisitedPage=%7B%2237871431%22%3A%22%2Falbum%2F91408%2Ftrack%2F493079%22%2C%221033887267%22%3A%22%2Fartist%2F6043%22%7D;pepsi_year=today;",
+  "downloadsPath": "./Users/UserTest/Downloads",
+  "playlistsForDownloadMark": "_dld",
+  "downloadMode": "downloadAllPlaylistsHasMark",
+  "shouldAddLyrics": true,
+  "isAddAdditionalInfo": true
+}
