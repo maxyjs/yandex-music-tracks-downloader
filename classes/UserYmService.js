@@ -32,7 +32,6 @@ class UserYmService {
     }
 
     async getAllTracksFromPlaylistFavorite() {
-        // It's not working. Authorization required!
         const allUserOpenedPlaylists = await this.getAllUserOpenedPlaylists();
         const outputData = allUserOpenedPlaylists;
         ///const outputData = {...allUserOpenedPlaylists[0], ...allUserOpenedPlaylists[1]}
